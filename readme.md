@@ -2,6 +2,8 @@
 
 A shell that will compare fixtures against live DB tables to make it easy to spot differences.
 
+**DEPRECATED** Use the improved version in [TestHelper plugin](https://github.com/dereuromark/cakephp-test-helper) instead.
+
 ## Requirements
 
 * CakePHP ^3.4
